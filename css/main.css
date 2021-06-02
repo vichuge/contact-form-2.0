@@ -327,7 +327,7 @@ li {
 }
 
 .form {
-  display:flex;
+  display: flex;
 }
 
 .footer-row {
@@ -348,7 +348,8 @@ li {
   height: auto;
 }
 
-.b-footer, .b-footer:hover {
+.b-footer,
+.b-footer:hover {
   /*background-color: #ff6b00;*/
   background-color: blue;
   text-transform: capitalize;
