@@ -350,7 +350,7 @@ li {
 
 .b-footer,
 .b-footer:hover {
-  /*background-color: #ff6b00;*/
+  /* background-color: #ff6b00; */
   background-color: blue;
   text-transform: capitalize;
 }
@@ -366,6 +366,6 @@ footer {
   padding: 1em;
 }
 
-footer p i {
+.fi {
   margin: auto 0.5em;
 }
