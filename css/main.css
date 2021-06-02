@@ -325,3 +325,46 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
+.form {
+  display:flex;
+}
+
+.footer-row {
+  padding: 8em;
+}
+
+.header-footer {
+  font-size: 3em;
+  margin: 0;
+  padding-right: 1em;
+  font-weight: bold;
+}
+
+.ta-footer {
+  background-color: #fbf8f7;
+  border: none;
+  padding: 1em;
+  height: auto;
+}
+
+.b-footer, .b-footer:hover {
+  /*background-color: #ff6b00;*/
+  background-color: blue;
+  text-transform: capitalize;
+}
+
+#hr-footer {
+  width: auto;
+  color: #505f79;
+}
+
+footer {
+  color: #505f79;
+  text-align: center;
+  padding: 1em;
+}
+
+footer p i {
+  margin: auto 0.5em;
+}
